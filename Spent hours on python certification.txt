@@ -1,0 +1,5 @@
+Project 1. Arithmetic formatter 	Time spent: 14h
+Project 2. Time calculator 		Time spent: 7h
+Project 3. Budget App 			Time spent: 13h
+Project 4. Polygon Area calculator 	Time spent: 1,5h
+Project 5. Probability calculator 	Time spent: 5h
